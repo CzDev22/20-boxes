@@ -2,7 +2,7 @@ main{
     width: 800px;
   }
 
- .box-holder1{
+ .box-holder{
     display: flex;
     justify-content: space-around;
     border: 3px solid lightblue;
@@ -24,18 +24,12 @@ main{
     margin-right: 10px;
   }
 
-  .box-holder2{
+  .down{
     margin-top: 20px;
-    display: flex;
-    justify-content: space-around;
     border: 3px solid purple;
     background-color: orangered;
 }
   
 .bottom { 
-    width: 60px;
-    height: 60px;
     background-color: purple;
-    margin-top: 20px;
-    margin-bottom: 20px;
 }
